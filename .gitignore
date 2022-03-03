@@ -1,0 +1,5 @@
+# webStorm ignore
+.idea/
+
+# git ignore
+.git/
